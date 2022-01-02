@@ -19,6 +19,4 @@ We also faced many troubles in backend development in payment integration and da
 
 ### Demo Video
 
-<video width="660px" height="360px" controls>
-<source src="https://user-images.githubusercontent.com/54361799/147871658-7f7700dc-affb-4b2c-8803-ff74cbf12312.mp4" type="video/mp4">
-</video>
+[](https://user-images.githubusercontent.com/54361799/147871658-7f7700dc-affb-4b2c-8803-ff74cbf12312.mp4)
